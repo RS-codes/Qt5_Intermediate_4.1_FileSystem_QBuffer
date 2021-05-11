@@ -1,3 +1,5 @@
 # Qt5_Intermediate_4.1_FileSystem_QBuffer
 
-#SourceCode to be added soon
+#Under file systems QBuffer discussed and
+
+#SourceCode added
